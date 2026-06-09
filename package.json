@@ -1,0 +1,12 @@
+{
+  "name": "rapisardi-ip-webhook",
+  "version": "1.0.0",
+  "description": "Vapi webhook for Rapisardi Intellectual Property AI Receptionist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
